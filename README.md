@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rxhulnxyak/CogniMind-AI/main/public/logo.png" alt="CogniMind AI Logo" width="150" />
+  <img src="https://raw.githubusercontent.com/Rxhulnxyak/CogniMind-AI/main/frontend/public/logo.png" alt="CogniMind AI Logo" width="150" />
 
   # 🧠 CogniMind AI
   
